@@ -1,0 +1,19 @@
+Entities:
+
+Author
+Title 
+Keywords -- examples include 'christmas', 'courage', 'friendship', 'family', 'honesty', 'trust', 'dragons', 'animals', 'rhymes', 'farm', 'train', etc.
+Link (URL to story)
+
+Mobile vs Website? 
+
+Consider using Bootstrap
+
+Another thought: maybe I could do a random story plot generator. Something that names the main characters, describes a setting, puts together a very 
+loose plot to prompt a writer.
+
+This all could be randomized and presented to the user. 
+
+
+
+
