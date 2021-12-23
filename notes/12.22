@@ -1,0 +1,21 @@
+# Think in terms of objects
+
+* Can be a story object
+      -- can have attributes like Title, Author, keywords (tags), 
+      -- constructors and getters and setters for all fields
+      -- object holds all the info
+      -- create instances of stories, which will include all the required information
+      
+* How to store my objects? 
+      -- Something in Collections
+      -- Hashmaps? key: identifying ID, value: instance of object
+      -- So when you click on whichever book, if calls it by ID.
+      
+* Need to re-work diagram
+
+* MVC format 
+      -- Model: story objects
+      -- View: front end
+      -- Controller: back end
+      
+   
