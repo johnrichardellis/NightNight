@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Welcome to the Seuss Emporium!",
+    "subtitle": "Thematic Dr. Seuss stories for your little one",
+    "logged": {
+      "message": "You are logged in as user \"{{username}}\"."
+    },
+    "question": "If you have any question on JHipster:",
+    "link": {
+      "homepage": "Dr. Seuss stories by Title",
+      "stackoverflow": "Dr. Seuss stories by Theme",
+      "bugtracker": "JHipster bug tracker",
+      "chat": "JHipster public chat room",
+      "follow": "follow @jhipster on Twitter"
+    },
+    "like": "If you like JHipster, don't forget to give us a star on",
+    "github": "GitHub"
+  }
+}
