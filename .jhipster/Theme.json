@@ -1,0 +1,24 @@
+{
+  "name": "Theme",
+  "fields": [
+    {
+      "fieldName": "title",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "link",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "theme",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20211229012036"
+}

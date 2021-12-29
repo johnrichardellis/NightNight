@@ -48,6 +48,8 @@ public class CacheConfiguration {
             createCache(cm, rocks.zipcode.nightnight.domain.User.class.getName());
             createCache(cm, rocks.zipcode.nightnight.domain.Authority.class.getName());
             createCache(cm, rocks.zipcode.nightnight.domain.User.class.getName() + ".authorities");
+            createCache(cm, rocks.zipcode.nightnight.domain.Title.class.getName());
+            createCache(cm, rocks.zipcode.nightnight.domain.Theme.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
