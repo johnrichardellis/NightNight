@@ -46,7 +46,8 @@
           </td>
           <td>{{ title.title }}</td>
           <td>{{ title.themes }}</td>
-          <td>{{ title.link }}</td>
+          <!-- <td>{{ title.link }}</td> -->
+          <td><a href={{title.link}}><div>{{title.link}}</div></a></td>
           <td class="text-right">
             <div class="btn-group">
               <button type="submit" [routerLink]="['/title', title.id, 'view']" class="btn btn-info btn-sm" data-cy="entityDetailsButton">
