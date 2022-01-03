@@ -6,4 +6,4 @@ So, if it's story time and your little one (or you!) wants the perfect story? Ti
 
 My MVP will allow a user to search a database of stories and view each one's themes, or search by theme and view all the corresponding stories. The user then will be provided a link to the story online.
 
-I will use Spring Boot, Java, SQL DB, and Angular.
+I will use Spring Boot, Maven, Java, SQL DB, and Angular.
