@@ -44,6 +44,9 @@
     "languages": ["en"],
     "enableGradleEnterprise": false,
     "entities": ["Title", "Theme"],
-    "lastLiquibaseTimestamp": 1640740836000
+    "lastLiquibaseTimestamp": 1640740836000,
+    "herokuAppName": "the-seuss-emporium",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
