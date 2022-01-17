@@ -51,7 +51,7 @@
         "authenticated": {
           "prefix": "To view the collection on Dr. Seuss stories, please ",
           "link": "sign in",
-          "suffix": ", using my default account:<br/>- Administrator (login=\"admin\" and password=\"admin\")."
+          "suffix": " using my default account:<br/>- Administrator (login=\"admin\" and password=\"admin\")."
         },
         "register": {
           "noaccount": "You don't have an account yet?",
