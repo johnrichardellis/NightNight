@@ -1,3 +1,5 @@
+login using (login="admin" and password="admin")
+
 # The Seuss Emporium
 
 The Seuss Emporium is an application that lets a user find a children's story based on thematic approaches. Want a story about protagonist transformation? Here you go. How about a story centered around conquering fear? There's a story right here!

@@ -54,8 +54,8 @@
           "suffix": " using my default account:<br/>- Administrator (login=\"admin\" and password=\"admin\")."
         },
         "register": {
-          "noaccount": "You don't have an account yet?",
-          "link": "Register a new account"
+          "noaccount": "",
+          "link": ""
         }
       },
       "error": {
