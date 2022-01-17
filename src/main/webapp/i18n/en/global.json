@@ -18,7 +18,7 @@
         "sessions": "Sessions",
         "login": "Sign in",
         "logout": "Sign out",
-        "register": "Register"
+        "register": ""
       },
       "admin": {
         "main": "Administration",
@@ -49,9 +49,9 @@
     "messages": {
       "info": {
         "authenticated": {
-          "prefix": "If you want to ",
+          "prefix": "To view the collection on Dr. Seuss stories, please ",
           "link": "sign in",
-          "suffix": ", you can try the default accounts:<br/>- Administrator (login=\"admin\" and password=\"admin\") <br/>- User (login=\"user\" and password=\"user\")."
+          "suffix": ", using my default account:<br/>- Administrator (login=\"admin\" and password=\"admin\")."
         },
         "register": {
           "noaccount": "You don't have an account yet?",
